@@ -1,0 +1,1 @@
+This is Package Takeover POC, RCE via NPM Misconfiguration [Sample POC]

